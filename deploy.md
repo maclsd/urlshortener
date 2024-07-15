@@ -14,7 +14,7 @@ docker push nodeshift/urlshortener-front
 ```
 
 Or directly use my image
-
+```
 oc new-app nodeshift/urlshortener-front
 ```
 
